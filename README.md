@@ -1,1 +1,2 @@
 # chatbot #
+wp all all
